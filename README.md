@@ -1,6 +1,6 @@
 # Simple Volume Controller for Android
 
-A straightforward Android application designed to provide users with quick and easy control over various system volume streams directly from a single interface.
+A straightforward Android application designed to provide users with quick and easy control over various system volume streams directly from a single interface. The user interface is currently available in Japanese only.
 
 ## Overview
 
@@ -21,7 +21,7 @@ It's built with simplicity in mind, allowing users to manage their device's soun
 
 ## Screenshots
 
-
+![screen1](https://github.com/silkycove/VolumeControlApp/blob/4eb60e75e9c94140aa084e16ebb5b7ef28ce9580/screen.png)
 
 ## Built With
 
