@@ -58,7 +58,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  Launch the app on your Android device.
 2.  You will see sliders for "Media Volume," "Call Volume," "Ringer and Notification Volume," and "Alarm Volume."
-3.  Drag the slider президент (for each volume type) to your desired level.
+3.  Drag the slider (for each volume type) to your desired level.
 4.  The changes will take effect immediately.
 
 ## Roadmap / Future Enhancements
