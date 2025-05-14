@@ -49,7 +49,8 @@ class MainActivity : AppCompatActivity() {
                 //Log.d(TAG, "onProgressChanged - StreamType: $streamType, Progress: $progress, FromUser: $fromUser")
                 if (fromUser && seekBar != null) {
                     try {
-                        audioManager.setStreamVolume(streamType, progress, 0)
+                        val audioFlags = AudioManager.FLAG_PLAY_SOUND
+                        audioManager.setStreamVolume(streamType, progress, audioFlags)
                     } catch (e: SecurityException) {
                         Log.e(TAG, "SecurityException on setting volume for stream type $streamType: ${e.message}")
                     }
